@@ -4,5 +4,4 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
-<meta name="google-site-verification" content="E0zX2WTl0fNfQPDNNaHbYXPoIHl87NLE-z4-jwuMR7w" />
 ![nature-photo](/images/nature.jpg){:class="img-responsive"}
