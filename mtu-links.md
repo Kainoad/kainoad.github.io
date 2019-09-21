@@ -28,7 +28,7 @@ permalink: /mtu-links/
 #### External sites
 
 - [Canvas](https://mtu.instructure.com/) - The Canvas Learning Management Platform
-- [Handshake](https://mtu.joinhandshake.com) - Like LinkedIn but for university
+- [Handshake](https://mtu.joinhandshake.com) - Like LinkedIn but for students
 - [IT Support Center](https://michigantechit.teamdynamix.com/TDClient/Home) - Hub for IT Support and IT Knowledge Base articles
 - [Michigan Tech Parking Portal](https://mtuparking.t2hosted.com) - Purchase and manage parking permits
 - [Michigan Tech Recreation site](https://www.michigantechrecreation.com) - All things recreation
@@ -38,8 +38,8 @@ permalink: /mtu-links/
 
 #### Free services for tech students
 
-- [HBO GO](https://hbogo.com) - Free with your Michigan Tech account
-- [Stream2 Webplayer](https://webplayer.mystream2.com) - Free with your Michigan Tech account
+- [HBO GO](https://hbogo.com) - Free with your Michigan Tech account, [instructions](https://michigantechit.teamdynamix.com/TDClient/KB/ArticleDet?ID=51644)
+- [Stream2 Webplayer](https://webplayer.mystream2.com) - Free with your Michigan Tech account, [instructions](https://michigantechit.teamdynamix.com/TDClient/KB/ArticleDet?ID=53471)
 
 <br>
 
